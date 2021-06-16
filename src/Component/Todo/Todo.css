@@ -1,0 +1,29 @@
+.container{
+   width: 50rem;
+   height: 30rem;
+   margin-top: 5rem;
+  
+ 
+}
+.close_icon{
+
+     color: grey;
+     border-radius: 10rem;
+     font-weight: 800;
+}
+.close_icon:hover{
+color: red;
+
+}
+/* .close_icon:hover{
+     color: white;
+     
+     } */
+.input-field input[type=text] {
+   font-size: 20px;    
+ }
+.table thead tr {
+      font-size: 25px;
+      font-weight: 600;
+      color: grey;
+ }
